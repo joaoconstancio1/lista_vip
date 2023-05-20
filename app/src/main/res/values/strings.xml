@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">App Lista Vip</string>
+    <string name="txt_title">Lista Vip</string>
+    <string name="first_name">Primeiro Nome</string>
+    <string name="second_name">Segundo Nome</string>
+    <string name="desired_course_name">Nome do Curso desejado</string>
+    <string name="contact_phone">Telefone de Contato</string>
+    <string name="clear_button">Limpar</string>
+    <string name="save_button">Salvar</string>
+    <string name="finalize_button">Finalizar</string>
+
+
 </resources>
